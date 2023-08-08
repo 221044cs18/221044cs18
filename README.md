@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @221044cs18 
+- 👋 Hi, I’m @Muhammad Oqil 
 - 👀 My name is Muhammad Oqil Xakimjonov
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on ...
