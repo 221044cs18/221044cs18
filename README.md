@@ -2,7 +2,7 @@
 - 👀 My name is Muhammad Oqil Xakimjonov
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me using my work mail - 221044@akfauniversity.org 
+- 📫 How to reach me using my work mail - muhammadoqil07@gmail.com
 
 <!---
 221044cs18/221044cs18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
